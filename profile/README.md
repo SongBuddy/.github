@@ -4,7 +4,7 @@ A modern social music app built with Flutter that connects with Spotify to share
 
 ## 👥 Creators
 
-**Mohammad Amin Rezai**  
+**Mohammad Amin Rezaei Sepehr**  
 📧 [mohammadaminrez@gmail.com](mailto:mohammadaminrez@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/mohammadaminrez/)
 
